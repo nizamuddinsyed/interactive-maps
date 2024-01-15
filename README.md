@@ -1,2 +1,3 @@
 # interactive-maps
-New way of interacting maps with finger touch and feel.
+New way of interacting maps with touch and feel.
+
