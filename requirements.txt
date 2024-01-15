@@ -1,0 +1,4 @@
+cvzone
+mediapipe
+
+# install iruin webcam for photo/video stream
