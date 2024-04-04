@@ -36,4 +36,4 @@ Experience the thrill of interacting with maps in a new and exciting way. Whethe
 
 
 
-Credits to CVZONE {@https://www.murtazahassan.com/}
+shoutout to {@https://www.murtazahassan.com/}
