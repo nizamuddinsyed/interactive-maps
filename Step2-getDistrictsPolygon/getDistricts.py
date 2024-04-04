@@ -26,8 +26,8 @@ import cv2  # OpenCV library for computer vision tasks
 import numpy as np  # NumPy library for numerical operations
  
 #############################
-map_file_path = "../Step1-getCornerPoints/Hamburg_map.p"
-districts_file_path = "../Step2-getDistrictsPolygon/Hamburg_districts.p"
+map_file_path = "./Step1-getCornerPoints/Hamburg_map.p"
+districts_file_path = "./Step2-getDistrictsPolygon/Hamburg_districts.p"
 cam_id = 0 
 width, height = 1920, 1080
 #############################

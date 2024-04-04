@@ -9,8 +9,8 @@ from cvzone.HandTrackingModule import HandDetector
 ######################################
 cam_id = 0
 width, height = 1920, 1080
-map_file_path = "../Step1-getCornerPoints/Hamburg_map.p"
-districts_file_path = "../Step2-getDistrictsPolygon/Hamburg_districts.p"
+map_file_path = "./Step1-getCornerPoints/Hamburg_map.p"
+districts_file_path = "./Step2-getDistrictsPolygon/Hamburg_districts.p"
 
 
 ######################################
